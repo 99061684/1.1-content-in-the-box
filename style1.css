@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.content{
+    width: 300px;
+    height: 200px;
+    padding: 40px;
+    padding-top: 0px;
+    margin: 40px;
+    border: 20px red dashed;
+    background-color: blanchedalmond;
+    position: absolute;
+}
